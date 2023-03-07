@@ -1,4 +1,9 @@
+//! # Art
+//!
+//! 这是一个接口
+
 pub use error::{ByteBufResult, ErrorType};
+
 pub use read_byte_buf::ReadByteBuf;
 
 pub mod error;

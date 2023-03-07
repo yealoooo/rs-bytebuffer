@@ -1,3 +1,7 @@
+//! # ReadByteBuf
+//!
+//! 这是一个只有读取功能的bytebuffer
+
 use byteorder::{BigEndian, ByteOrder, LittleEndian};
 
 use crate::byte_buf::{ByteBuf, ByteBufResult, ErrorType};
