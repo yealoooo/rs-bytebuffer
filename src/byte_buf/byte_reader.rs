@@ -1,3 +1,22 @@
+//! # ByteReader 只供读取的buffer
+//!
+//! ## 示例
+//! ```rust
+//! use crate::rs_bytebuffer::byte_buf::ByteReader;
+//!
+//! let array: [u8; 4] = [0x01, 0x02, 0x01, 0x02];
+//! let mut read_byte_buf = ByteReader::new_from( & array);
+//!
+//! read_byte_buf.read_i8();
+//! read_byte_buf.read_u8();
+//! read_byte_buf.read_u16_le();
+//! read_byte_buf.mark_read_index().read_i16_le();
+//! read_byte_buf.reset_read_index();
+//! read_byte_buf.read_i16_le();
+//! read_byte_buf.read_i16_le();
+//! ```
+
+
 use byteorder::{BigEndian, ByteOrder, LittleEndian};
 
 use crate::{get_number, read_number};

@@ -1,6 +1,6 @@
-//! # Art
+//! # ByteBuffer
 //!
-//! 这是一个接口
+//! bytebuffer 模块
 
 pub use byte_reader::ByteReader;
 pub use error::{ByteBufResult, ErrorType};
