@@ -1,5 +1,7 @@
 # rs-bytebuffer
 
+[![Crates.io](https://img.shields.io/crates/v/rs-bytebuffer.svg?color=orange)](https://crates.io/crates/rs-bytebuffer)
+
 - byte 操作工具类
 
 
