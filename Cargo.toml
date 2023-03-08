@@ -1,6 +1,6 @@
 [package]
 name = "rs-bytebuffer"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["yanlsix <yanlsix@163.com>"]
 description = "this is a bytebuffer tools"
