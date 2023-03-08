@@ -5,8 +5,8 @@ edition = "2021"
 authors = ["yanlsix <yanlsix@163.com>"]
 description = "this is a bytebuffer tools"
 license = "Apache-2.0"
-repository = "https://github.com/yanlongsix/rs-bytebuffer"
-homepage = "https://github.com/yanlongsix/rs-bytebuffer"
+repository = "https://github.com/yealou/rs-bytebuffer"
+homepage = "https://github.com/yealou/rs-bytebuffer"
 keywords = ["bytebuffer", "byte"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

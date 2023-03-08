@@ -20,7 +20,8 @@ read_byte_buf.read_i16_le();
 
 
 ## 许可协议
-TIS is under the Apache2 License. See the [LICENSE](https://github.com/yanlongsix/rs-bytebuffer/blob/main/LICENSE) file for details.
+TIS is under the Apache2 License. See the [LICENSE](https://github.com/yealou/rs-bytebuffer/blob/main/LICENSE) file for details.
 
 ## 反馈
-您在使用过程中有任何不满或者批评都请说出, 您提出的宝贵意见是对我们最大的支持和鼓励, [我要提建议](https://github.com/yanlongsix/rs-bytebuffer/issues/new)
+您在使用过程中有任何不满或者批评都请说出, 您提出的宝贵意见是对我们最大的支持和鼓励, [我要提建议](https://github.com/yealou/rs-bytebuffer/issues/new)
+
